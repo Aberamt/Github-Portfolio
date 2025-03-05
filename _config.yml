@@ -1,0 +1,18 @@
+title: Aberams GitHub Portfolio
+description: A portfolio to showcase my projects
+theme: minima
+
+# Optional settings
+author: Aberam Tharmakulenthiran
+email: aberamt2002@.com
+url: "https://github.com/Aberamt"
+baseurl: "/Github-Portfolio"
+
+# Social media links
+twitter_username: your-twitter-handle
+github_username: your-username
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
