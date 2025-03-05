@@ -1,6 +1,86 @@
 title: Aberams GitHub Portfolio
 description: A portfolio to showcase my projects
 theme: minima
+jekyll-theme-minima:
+  # Set the following values to true to enable the corresponding feature.
+  comments: false
+  analytics: false
+  disqus: false
+  share: false
+  toc: false
+  # Set the following values to true to enable the corresponding feature.
+  hero_title: "Aberams GitHub Portfolio"
+  hero_text: "A portfolio to showcase my projects"
+  hero_image: "/assets/images/hero-image.jpg"
+  show_downloads: false
+  show_excerpts: false
+  show_date: true
+  show_last_modified_at: false
+  show_categories: false
+  show_tags: false
+  show_author_profile: true
+  show_social_share_buttons: true
+  social_share_buttons:
+    twitter: true
+    facebook: true
+    google: false
+    linkedin: true
+    pinterest: false
+    email: true
+    whatsapp: false
+    telegram: false
+    line: false
+    viber: false
+    wechat: false
+    vkontakte: false
+    odnoklassniki: false
+    xing: false
+    reddit: false
+    hackernews: false
+    pocket: false
+    tumblr: false
+    buffer: false
+    flipboard: false
+    mix: false
+    yummly: false
+    houzz: false
+    instapaper: false
+    sms: false
+    skype: false
+    telegram: false
+    line: false
+    viber: false
+    wechat: false
+    vkontakte: false
+    odnoklassniki: false
+    xing: false
+    reddit: false
+    hackernews: false
+    pocket: false
+    tumblr: false
+    buffer: false
+    flipboard: false
+    mix: false
+    yummly: false
+    houzz: false
+    instapaper: false
+    sms: false
+    skype: false
+    whatsapp: false
+    telegram: false
+    line: false
+    viber: false
+    wechat: false
+    vkontakte: false
+    odnoklassniki: false
+    xing: false
+    reddit: false
+    hackernews: false
+    pocket: false
+    tumblr: false
+    buffer: false
+    flipboard: false
+    mix: false
 
 # Optional settings
 author: Aberam Tharmakulenthiran
