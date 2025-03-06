@@ -15,3 +15,12 @@ Ambitious data analyst with a love for finance!
 
 ### Projects
 
+##Project 1 
+
+1. Build a database
+
+   
+2. Develop the SQL Query
+4. Connect Power BI to the Database
+5. Visualize
+6. Summarize Findings / Ask questions 
